@@ -6,3 +6,7 @@ A animated wallpaper for wallpaper engine using pure JavaScript without using CS
 ![](https://github.com/adityarahul314/calm_night/blob/main/calmnight_preview.png)
 
 This uses GPU for draw calls with minimal CPU usage. Every time this wallpaper is loaded stars and clouds are procedurally generated using perlin noise. FPS can be configured if your GPU can keep up.
+
+Requirements:
+  - [Wallpaper Engine](https://www.wallpaperengine.io/en) application for windows
+  - OpenGL supported GPU to animate canvas
